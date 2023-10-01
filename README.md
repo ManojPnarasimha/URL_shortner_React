@@ -25,5 +25,5 @@ react-copy-to-clipboard: https://www.npmjs.com/package/react-copy-to-clipboard
 
 ##  **The UI**
 
-![image](https://github.com/ManojPnarasimha/URL_shortner_React/assets/144297832/371ca42c-2dc9-4782-8f52-f83b3185cdc7)
+
 
